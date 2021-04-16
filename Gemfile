@@ -1,9 +1,4 @@
 source 'https://rubygems.org'
-
-gem 'jekyll'
-
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-feed"
-  gem "jekyll-sitemap"
-end
+gem "jekyll", "~> 4.0.0"
+gem "bundler"
+gem "jekyll-sitemap"
