@@ -3,7 +3,7 @@ email: zhanghanwen028@qzddj.vip
 description: > # this means to ignore newlines until "baseurl:"
   The new year has begun, bless yourself, enjoy a whole year of happy time, think hard, and quietly do what you love. Be a kind person and record your feelings with a pen.
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
