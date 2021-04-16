@@ -3,7 +3,7 @@ layout: post
 title: 新年展望
 date: 2021-04-16 09:09:30 +0800
 description: If you don't think, you will lose the soul. # Add post description (optional)
-img: post-5.jpg # Add image post (optional)
+img: yosh-ginsu.jpg # Add image post (optional)
 tags: [Blog, Think]
 author: hanwen # Add name author (optional)
 ---
