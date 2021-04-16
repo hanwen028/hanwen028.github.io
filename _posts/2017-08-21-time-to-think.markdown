@@ -1,28 +1,16 @@
 ---
 layout: post
-title: Time to think
-date: 2017-08-21 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: New perception
+date: 2021-04-16 09:09:30 +0800
+description: If you don't think, you will lose the soul. # Add post description (optional)
 img: post-5.jpg # Add image post (optional)
-tags: [Blog, Meditation]
-author: # Add name author (optional)
+tags: [Blog, Think]
+author: hanwen # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+There are many ways to gain sentiment. Through your own actual experience and listening to stories told by others are all ways to gain sentiment. In life, people can't stop thinking. If you don't think, you will lose the soul. I believe in the power of the soul. Only when you think can you have the happiness of living, and you can live happily while thinking.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The joy of thinking
 
-Jekyll also offers powerful support for code snippets:
+You can think at any time. The direction, content, and emotion of thinking are not restricted, and you can think freely and flexibly. People in life are limited in thinking and cannot forget their environment. When I was in school, I couldn't think about it in mathematics class. Until now, I can't think about mathematics. I don't see the sensitivity of numbers. Some are just for historical figures. The personal understanding of the characters in the movies, the actors and the authors of the novels, and the personal understanding of the emotions of the characters in the novels, cannot be understood at the level of professionals. My own understanding is also a reflection of the structure of learning and thinking. When I was in school, I suffered from not being able to think every day, thinking for the sake of thinking, some only have to remember, but knowing that today, I have not remembered this knowledge, so I am happy and unhappy. I like to think. I like to think about what I say. I like to pursue fanatical things. I also like to watch movies played by my favorite movie actors. I like to watch movies quietly with snacks and enjoy the fun of movies. What no critics see is whether it is a commercial film or the effect of publicity. What I see is that it can be accepted by me. This simple standard.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The next thing I want to say is that thinking is something that I actively pursue, rather than being forced to do it. Thinking according to a fixed pattern, mathematics, although I learned very badly, mathematics inspires people, and simple rules are stated. In order to understand the truth in life, what I want to talk about is the concept of collection. The concept of collection is the relationship, existence and absence. Every day's life is the embodiment of the intersection of oneself and others. Today is such a relationship. Tomorrow will be that kind of relationship, which is constantly changing. Some of them are their unchanging mentality, but they are only ideal. Today’s self is always different from tomorrow’s self. Some, needs, and pursuits. It's also completely different, with big ups and downs, and ordinary days. I think of Song Dongye's songs, the thorns in ordinary life. Life is a complex body, a collection, a function. The important thing for a function is how to define it. The expression of a language system is also realized by definition. Without definition, it cannot be understood or understood. We talk about superman, This is something that is incomprehensible in this era. People have different dimensions of thinking. You must never think without thinking, only accept terrible propaganda.
