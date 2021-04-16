@@ -1,20 +1,15 @@
 ---
 layout: post
-title:  I conquer the Himalayas
-date:   2017-08-25 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title:  出门看花
+date:   2021-04-09 22:32:20 +0800
+description: 院子里的花开的很漂亮，出门看看去# Add post description (optional)
 img: post-1.jpg # Add image post (optional)
-tags: [Blog, Mountains]
-author: Adam Neilson # Add name author (optional)
+tags: [Blog, Flower]
+author: han wen # Add name author (optional)
 ---
-Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal cred tacos dreamcatcher cray chia cloud bread master cleanse ennui. Copper mug hella iceland occupy venmo. Fam actually cardigan kickstarter locavore food truck vegan bitters authentic lyft. Vaporware listicle keffiyeh adaptogen. Cloud bread stumptown swag la croix polaroid pickled. Next level yuccie four dollar toast polaroid. Portland chicharrones craft beer helvetica 3 wolf moon.
+四月这个季节是花开的很美的季节，可以愉快的看花，虽然这个四月天气冷一点，花开的还是那么好，我之前还在担心，今年的花能不能开的很好，最早开花的是小区里楼前面那几株花，什么名字我真不知道，我是一个只认识开花的蒲公英的人，我对植物不感兴趣，却又不能失掉兴趣，关注点也在于有没有植物，叶子长了多少，好看没有等基本的问题。之前还在担心我窗户前面的树能不能发芽，现在看到小树长出来小小的叶子，我很兴奋，心中的糟糕感觉消失，走路也轻快了不少，之前的不愉快都随着树叶长出新树叶消失，我变得开心。
 
-Fanny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
+春天是大家喜欢的季节，我也喜欢春天，春天里可以做很多的事情，自己想去做什么事情就去做什么事情，不用去考虑其他的事情，也不用为了琐事而烦恼，春天大家都很繁忙，在冬天大家都放慢脚步，生活的节奏也慢，春天里，窗户外面的河道开始清理，不知道河道会不会清澈，之前很宽的河道不存在，周边房地产开发，河道不断的萎缩，能有一条小河流过，比消失掉什么也留不下要好的太多。院里的樱花正处在盛开期，牡丹花也开放中，看到了白色的牡丹花，从亲戚送给奶奶的牡丹花图才知道还有这蓝色的牡丹花，我喜欢蓝色，蓝色简单，怎么看都不会厌倦，简单的色调。
 
-> Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
+春日里就是赏花的时节，院子里的颜色是黄色、红色、绿色构成的，比夏天单纯的绿色好看，比秋天仅有的黄色好看，冬天里也就松树有着深绿色的颜色，等到下雪时可以看到白色，也是开心的事情。
 
-Taxidermy shaman irony williamsburg bespoke. Freegan ugh mumblecore selfies, shabby chic neutra everyday carry. Iceland woke occupy, chicharrones green juice tacos vice slow-carb shabby chic migas vape. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art. Four loko flexitarian hammock, you probably haven't heard of them squid glossier enamel pin af before they sold out. Jianbing narwhal chartreuse helvetica 3 wolf moon quinoa. 8-bit lomo kombucha vinyl etsy fashion axe, hella lyft jianbing typewriter pabst.
-
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
-
-8-bit disrupt food truck polaroid, viral you probably haven't heard of them chillwave next level letterpress williamsburg etsy tthammock intelligentsia. Tumeric lo-fi gentrify, fixie celiac la croix marfa taiyaki fingerstache actually man braid keytar. Brunch coloring book succulents church-key umami affogato. Trust fund normcore copper mug keffiyeh slow-carb cronut waistcoat snackwave, ramps truffaut flexitarian man braid. Celiac flexitarian authentic hashtag wayfarers. Next level pitchfork scenester godard. Salvia etsy edison bulb knausgaard poke jianbing actually. Mlkshk retro cardigan photo booth swag. Occupy shaman austin, meditation green juice flannel succulents twee. Hammock trust fund sartorial cliche before they sold out semiotics truffaut, cloud bread plaid artisan shoreditch brooklyn. Shoreditch air plant asymmetrical DIY. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art.
