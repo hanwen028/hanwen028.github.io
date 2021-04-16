@@ -1,28 +1,12 @@
 ---
 layout: post
-title: The forest in the fog
-date: 2017-08-20 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: Simple language
+date: 2021-03-13 13:32:20 +0800
+description: My own language is lacking, but I have to express my thoughts completely and now I'm totally cray # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Meditation]
-author: # Add name author (optional)
+tags: [Blog, Language]
+author: hanwen # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I set up my own blog on GitHub and I am very happy. Blogging is now a happy thing. It’s no longer a daily homework when I was in middle school. My blog looks like a daily record, recording my emotions. I like to talk. I can talk with close friends. No problem all day long.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+It’s a pleasure to have a place where you can put your own written text. When you put the text here, you can read it for yourself and have a memory. If you see what the post says, if you don’t write an article or record it, you will lose your memory and memory. There are true and false, and there are memories that I don't want to recall.
