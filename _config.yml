@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The new year has begun, bless yourself, enjoy a whole year of happy time, think hard, and quietly do what you love. Be a kind person and record your feelings with a pen.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hanwen028.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: hanwen # add your name
@@ -23,13 +23,13 @@ instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+#mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
 discus_identifier: mr-brown # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Paginate
 paginate: 6
