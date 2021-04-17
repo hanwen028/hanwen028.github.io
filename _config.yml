@@ -1,10 +1,10 @@
 title: Hanwen blog 
-email: zhanghanwen028@qzddj.vip
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   The new year has begun, bless yourself, enjoy a whole year of happy time, think hard, and quietly do what you love. Be a kind person and record your feelings with a pen.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://hanwen028.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Hanwen # add your name
@@ -33,7 +33,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
-  - jekyll-sitemap
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
