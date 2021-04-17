@@ -1,4 +1,4 @@
-title: Hanwen personal blog 
+title: Hanwen blog 
 email: zhanghanwen028@qzddj.vip
 description: > # this means to ignore newlines until "baseurl:"
   The new year has begun, bless yourself, enjoy a whole year of happy time, think hard, and quietly do what you love. Be a kind person and record your feelings with a pen.
@@ -7,14 +7,14 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://hanwen028.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: hanwen # add your name
+author: Hanwen # add your name
 author-pic: hwb.jpeg
-about-author: My name is hanwen.I like to talk. I like to live in my own way.
+about-author: My name is Hanwen.I like to talk. I like to live in my own way.
 
 # Contact links
 email: zhanghanwen028@qzddj.vip # Add your Email address
 phone: # Add your Phone number
-website: www.qzddj.vip # Add your website, do not add http://
+website:  # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
 github: hanwen028 # Add your Github handle
 twitter: '@hwzhang05460' # Add your Twitter handle
@@ -31,8 +31,6 @@ markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-sitemap
-
-plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
